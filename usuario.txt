@@ -1,0 +1,6 @@
+alan,1234;1,Bolivianos,167.0;alan,peralta,andia,1,1,2003,123
+et,123;2,Bolivianos,135.0;ethan,gerl,serelis,0,0,0,11112
+et,123;3,Dolares,30.02;ethan,gerl,serelis,0,0,0,11112
+et,123;4,Euros,6.0;ethan,gerl,serelis,0,0,0,11112
+andrea,2000;5,Bolivianos,300.0;Andrea,Torrico,Terrazas,12,8,2000,13752439
+andrea,2000;6,Dolares,14.0;Andrea,Torrico,Terrazas,12,8,2000,13752439

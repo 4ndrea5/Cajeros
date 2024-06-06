@@ -1,0 +1,27 @@
+Desde: 1,Deposito,100Bolivianos, A: 1
+Desde: 1,Transfirio,20Bolivianos, A: 2
+Desde: 1,Transfirio,10Bolivianos, A: 2
+A: 2,Transfirio,10Bolivianos, Desde: 1
+Desde: 1,Transfirio,5Bolivianos, A: 2
+A: 2,Te Transfirio,5Bolivianos, Desde: 1
+Desde: 1,Transfirio,5.0724637681159415Bolivianos, A: 3
+A: 3,Te Transfirio,5.0724637681159415 Bolivianos, Desde: 1
+Desde: 1,Transfirio,1.0144927536231882Bolivianos, A: 3
+A: 3,Te Transfirio,1.0144927536231882 Bolivianos, Desde: 1
+Desde: 3,Transfirio,69.0Dolares, A: 1
+A: 1,Te Transfirio,69.0 Dolares, Desde: 3
+Desde: 1,Transfirio,2.898550724637681Bolivianos, A: 3
+A: 3,Te Transfirio,2.898550724637681 Bolivianos, Desde: 1
+Desde: 1,Transfirio,1.4492753623188406Bolivianos, A: 3
+A: 3,Te Transfirio,1.4492753623188406 Bolivianos, Desde: 1
+Desde: 4,Deposito,10.0Euros, A: 4
+Desde: 4,Transfirio,75.0Euros, A: 1
+A: 1,Te Transfirio,75.0 Euros, Desde: 4
+Desde: 4,Deposito,10.0Euros, A: 4
+Desde: 4,Transfirio,30.0Bolivianos, A: 1
+A: 1,Te Transfirio,30.0 Bolivianos, Desde: 4
+Desde: 5,Deposito,500.0Bolivianos, A: 5
+Desde: 5,Transfirio,100.0Bolivianos, A: 2
+A: 2,Te Transfirio,100.0 Bolivianos, Desde: 5
+Desde: 5,Transfirio,14.0Dolares, A: 6
+A: 6,Te Transfirio,14.0 Dolares, Desde: 5
